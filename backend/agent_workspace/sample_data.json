@@ -1,0 +1,19 @@
+{
+  "system": "AgentGuard Sandbox Environment",
+  "version": "1.0.0",
+  "records": [
+    {
+      "id": 1,
+      "name": "Audit Sample A",
+      "status": "Verified",
+      "score": 98
+    },
+    {
+      "id": 2,
+      "name": "Audit Sample B",
+      "status": "Pending",
+      "score": 85
+    }
+  ],
+  "author": "AgentGuard Research Team"
+}
